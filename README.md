@@ -1,1 +1,3 @@
 # TypeScriptSample
+
+これはTypeScriptの学習を行うためのGitHubです。
